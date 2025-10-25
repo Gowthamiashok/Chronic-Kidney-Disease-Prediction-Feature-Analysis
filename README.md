@@ -1,4 +1,4 @@
-#🩺 Chronic Kidney Disease Prediction & Feature Analysis
+# 🩺 Chronic Kidney Disease Prediction & Feature Analysis
 
  - This project focuses on the detection of chronic kidney disease (CKD) based on clinical and laboratory features.
  - It explores the most important factors for CKD using machine learning and data analysis techniques.
